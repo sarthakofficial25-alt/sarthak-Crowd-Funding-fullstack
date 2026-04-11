@@ -26,8 +26,6 @@ This project is a basic Crowd Funding smart contract built using Soroban on the 
 ## 🔗 Deployed Smart Contract Link
 Crowd Funding
 
-(Add your deployed contract link here after deployment)
-
 CONTRACT_ID: CDKKRIDJ4Q2DGJKQXBRBF22BZFRLMEEK722LGDQBBOGRPF4IUS65KSHJ
 <img width="1919" height="938" alt="Screenshot 2026-04-10 141854" src="https://github.com/user-attachments/assets/adf71d52-5f66-4ffa-9101-69265524ba57" />
 
